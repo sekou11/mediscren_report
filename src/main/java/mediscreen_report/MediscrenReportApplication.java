@@ -1,4 +1,4 @@
-package mediscreen_mediscren_report;
+package mediscreen_report;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
