@@ -1,5 +1,10 @@
 # mediscren_report
 
+
+![Diagramme sans nom-Page-2 drawio](https://user-images.githubusercontent.com/42712490/181641675-c982e279-6c32-4f15-b2ec-400b18f9535f.png)
+
+
+
 Technology and Prerequisites
 
 JAVA 8 JDk
