@@ -20,13 +20,11 @@ Install Docker: - https://www.docker.com/products/docker-desktop
 
 MicroServices Details
 
-Port:874 - mediscreen_report
+Port:8704 - mediscreen_report
 
 This microservice defines the risk's level of a patient's diabetes. 
 
-It based on the data retrieved by FeignClient thanks to Patient and PatientHistorical.
-
-
+It based on the data retrieved by FeignClient thanks to Patient and note.
 
 
 Run Application
